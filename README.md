@@ -6,7 +6,7 @@ The .cpp file is in the CMD folder. If you want to open the whole configuration 
 <h2>In order to contribute:</h2>
 
 <h3>Step 1: clone the repo.</h3>
-  To do so, simply enter `git clone https://github.com/YoungMind44/CMD-auto.git`
+  To do so, simply enter ` git clone https://github.com/YoungMind44/CMD-auto.git `
   
 <h3>Step 2: contribute!</h3>
   Open the .cpp file on your IDE or whatever and add new functionnalities and improve the code.
