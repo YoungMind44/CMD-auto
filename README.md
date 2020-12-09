@@ -7,7 +7,7 @@ The .cpp file is in the CMD folder. If you want to open the whole configuration 
 
 <h3>Step 1: clone the repo.</h3>
 ```shell
-$ git clone https://github.com/YoungMind44/CMD-auto.git 
+pip test
 ```
   
 <h3>Step 2: contribute!</h3>
