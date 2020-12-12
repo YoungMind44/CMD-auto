@@ -1,2 +1,4 @@
-.vs/CMD/v16/
+*.vs/CMD/v16/
+CMD/Debug/
+Debug/
 
