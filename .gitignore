@@ -1,4 +1,4 @@
-*.vs/CMD/v16/
+.vs/
 CMD/Debug/
 Debug/
 
