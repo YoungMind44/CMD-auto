@@ -1,6 +1,6 @@
 # CMD-auto
 
-This a programm that restart an appliacation by killing the .exe task then restarting it automatically, thus no need to write a bash file to set up such a command.
+This a program to restart an application by killing it then restarting automatically.
 The .cpp file is in the CMD folder. If you want to open the whole configuration in Visual Studion, open the .sln file and change it if you want.
 
 <h2>In order to contribute:</h2>
